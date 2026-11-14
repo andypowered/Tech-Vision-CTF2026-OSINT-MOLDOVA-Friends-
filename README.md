@@ -32,6 +32,7 @@ Writeups and solve files from Tech Vision CTF 2026.
 | Crypto | Ender Chest | [read](CRYPTO/readme.md#challenge-2-ender-chest) |
 | Cloud / AWS | Shadow Cloud: Broken Trust | [read](Cloud%20%7C%20AWS/Shadow%20Cloud/readme.md) |
 | OSINT | ASK ME | [read](OSINT/ASK%20ME/readme.md) |
+| OSINT | The Freshman | [read](OSINT/The%20Freshman/readme.md) |
 
 Flags are listed in the individual writeups.
 
