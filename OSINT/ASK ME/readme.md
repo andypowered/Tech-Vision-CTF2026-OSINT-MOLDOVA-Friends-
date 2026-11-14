@@ -52,6 +52,8 @@ Diamond Stack 1: 64
 Diamond Stack 2: 6
 ```
 
+OSINT/ASK ME/1.png
+
 64 + 6 = 70. Decimal 70 in ASCII is the uppercase letter `F`.
 
 **Answer:** `F`
