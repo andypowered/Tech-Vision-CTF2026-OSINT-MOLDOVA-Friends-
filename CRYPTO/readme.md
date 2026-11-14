@@ -197,32 +197,4 @@ d = 2327569722739447708246377569803395
 | `ender_chest` | `TVX{D1dn5_F4lL_4_7h3_7r4p_7h15_t1me}` |
 | `shulker_box` | `TVX{tNt_g035_B00m_C0ngr4t5}` |
 
-### What to remember
 
-- Check the order of the curve, not just the size of `p`.
-- A smooth group order is fatal. Pohlig-Hellman turns one big discrete log into several small ones.
-- Rule out singular, anomalous, and small embedding degree before assuming the curve is safe.
-- "Elliptic curves are unbreakable" only applies when the parameters are chosen properly.
-
----
-
-## Running the solvers
-
-The RSA solver uses only the Python standard library. It lives in `creeper-vaults/solve.py`:
-
-```bash
-python3 creeper-vaults/solve.py
-```
-
-The ECC solver needs SageMath and pycryptodome. I used Sage 10.x, but any recent version should work. The script is in `ender-chest/solve.sage`:
-
-```bash
-pip install pycryptodome
-sage ender-chest/solve.sage
-```
-
-If you do not want to install Sage locally, the online cell at <https://sagecell.sagemath.org> is enough for this challenge.
-
----
-
-Neither challenge needed a clever exploit. In both cases, the key generation was the bug. That is usually where I look first in CTF crypto, and this set was no exception.
