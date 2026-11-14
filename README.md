@@ -20,7 +20,8 @@ Writeups and solve files from Tech Vision CTF 2026.
 ├── Cloud | AWS/
 │   └── Shadow Cloud/       
 └── OSINT/
-    └── ASK ME/            
+    └── ASK ME/ 
+    └── The Freshman/
 ```
 
 ## Writeups
