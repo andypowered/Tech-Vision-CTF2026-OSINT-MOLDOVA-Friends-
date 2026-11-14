@@ -52,8 +52,7 @@ Diamond Stack 1: 64
 Diamond Stack 2: 6
 ```
 
-![1png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/OSINT/ASK ME
-/1.png)
+![1png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/OSINT/ASKK%20ME/1.png)
 
 64 + 6 = 70. Decimal 70 in ASCII is the uppercase letter `F`.
 
