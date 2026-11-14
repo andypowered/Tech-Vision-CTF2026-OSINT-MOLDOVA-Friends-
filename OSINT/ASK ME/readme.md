@@ -66,7 +66,7 @@ Diamond Stack 2: 6
 Diamond Stack 1: 64
 Diamond Stack 2: 0
 ```
-
+![2png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/2.png)
 64 + 0 = 64. Decimal 64 in ASCII is `@`.
 
 **Answer:** `@`
@@ -79,7 +79,7 @@ Diamond Stack 2: 0
 Diamond Stack 1: 64
 Diamond Stack 2: 15
 ```
-
+![3png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/3.png)
 64 + 15 = 79. Decimal 79 in ASCII is the uppercase letter `O`.
 
 **Answer:** `O`
@@ -92,7 +92,7 @@ Diamond Stack 2: 15
 Diamond Stack 1: 64
 Diamond Stack 2: 53
 ```
-
+![4png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/4.png)
 64 + 53 = 117. Decimal 117 in ASCII is the lowercase letter `u`.
 
 **Answer:** `u`
@@ -105,7 +105,7 @@ Diamond Stack 2: 53
 Diamond Stack 1: 64
 Diamond Stack 2: 14
 ```
-
+![5png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/5.png)
 64 + 14 = 78. Decimal 78 in ASCII is the uppercase letter `N`.
 
 **Answer:** `N`
@@ -118,7 +118,7 @@ Diamond Stack 2: 14
 Diamond Stack 1: 64
 Diamond Stack 2: 36
 ```
-
+![6png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/6.png)
 64 + 36 = 100. Decimal 100 in ASCII is the lowercase letter `d`.
 
 **Answer:** `d`
@@ -131,7 +131,7 @@ Diamond Stack 2: 36
 Diamond Stack 1: 64
 Diamond Stack 2: 9
 ```
-
+![7png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/7.png)
 64 + 9 = 73. Decimal 73 in ASCII is the uppercase letter `I`.
 
 **Answer:** `I`
@@ -144,7 +144,7 @@ Diamond Stack 2: 9
 Diamond Stack 1: 64
 Diamond Stack 2: 20
 ```
-
+![8png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/8.png)
 64 + 20 = 84. Decimal 84 in ASCII is the uppercase letter `T`.
 
 **Answer:** `T`
@@ -168,7 +168,7 @@ The password unlocks the protected file, which contains:
 ```text
 TVX{45C11_C0D3_15_US53FU11}
 ```
-
+![Flag-png](https://github.com/andypowered/Tech-Vision-CTF2026-OSINT-MOLDOVA-Friends-/blob/main/OSINT/ASK%20ME/FLAG.png)
 The flag is leetspeak for `ASCII_CODE_IS_USEFUL`.
 
 ## Data flow
