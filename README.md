@@ -1,4 +1,4 @@
-# Tech Vision CTF 2026
+# Tech Vision CTF 2026 
 
 Writeups and solve files from Tech Vision CTF 2026.
 
